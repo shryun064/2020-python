@@ -3,6 +3,6 @@
 
 ### python程式設計 
 
-### mic:bit設計
+### micro:bit設計
 
 ### web:bit設計
