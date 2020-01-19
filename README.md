@@ -12,6 +12,13 @@ a=20
 print(a)
 ```
 - p02.py
+``` python
+a=12345
+print(a)
+
+b=2*1
+print(b)
+```
 - p03.py
 - p04.py
 - p05.py
