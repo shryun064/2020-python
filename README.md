@@ -3,7 +3,8 @@
 
 ### python程式設計 
 - p01.py
-```a=10
+``` python
+a=10
 print(a)
 print(type(a))
 
